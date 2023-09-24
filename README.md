@@ -4,7 +4,7 @@
 <div align="justify">Aplikasi Pembukuan Akuntansi sederhana adalah perangkat lunak atau program komputer yang dirancang untuk membantu bisnis atau individu dalam mengelola catatan keuangan mereka dengan cara yang mudah dipahami dan digunakan, terutama untuk bisnis kecil atau entitas yang memiliki kebutuhan akuntansi yang relatif sederhana. Aplikasi ini dapat membantu dalam pencatatan transaksi harian, pelacakan pendapatan, pengeluaran, serta pembuatan laporan keuangan dasar seperti laporan laba rugi dan neraca.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-ProgramAkuntansi/graphs/commit-activity)
 
